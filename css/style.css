@@ -99,7 +99,7 @@ div {
   padding-left: 35px;
   margin-top: 40px;
   padding-bottom: 20px;
-  word-wrap: normal; }
+  word-wrap: break-word; }
   #sidebar .widget {
     margin-bottom: 30px; }
     #sidebar .widget .widget-title {
